@@ -54,7 +54,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=ESWWKEMA
 
 [Document2]
 DocumentPath=Connector.SchLib
